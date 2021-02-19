@@ -1,10 +1,7 @@
 # Crowd-Counting-for-FYP
 
-![banner]()
-![badge]()
-![badge]()
-[![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/Bazinga0426/Crowd-Counting-for-FYP)
  
 My initial goal is to develop a simple web page that can upload pictures. After the photographs are processed, the number of people in that image is detected by the neural network and returned to the screen. 
  
@@ -12,7 +9,6 @@ The second stage is to develop a program that can be installed on the phone. Thi
 
 ## Table of Contents
 
-- [Security](#security)
 - [Background](#background)
 - [Contributing](#contributing)
 - [License](#license)
