@@ -1,0 +1,11 @@
+
+.page {
+	height: 100vh;
+	background-image: rgb(156, 38, 176);
+}
+.nav-list {
+	position: absolute;
+	width: 100%;
+	top: 30vh;
+}
+

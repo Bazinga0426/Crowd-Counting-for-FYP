@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"cu-form-group .",[1],"title { min-width: calc(4em + 15px); }\n.",[1],"form { margin-top: 120px; }\n",],undefined,{path:"./pages/settings/settings.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/settings/settings.wxml') } }));

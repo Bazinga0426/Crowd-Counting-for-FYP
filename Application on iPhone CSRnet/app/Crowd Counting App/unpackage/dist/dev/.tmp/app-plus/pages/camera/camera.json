@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "components": "/pages/component/home",
+    "settings": "/pages/settings/settings"
+  }
+}

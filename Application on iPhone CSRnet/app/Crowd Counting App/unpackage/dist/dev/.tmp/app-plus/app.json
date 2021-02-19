@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/camera/camera",
+    "pages/camera/upload",
+    "pages/settings/settings"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "ColorUi for UniApp",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "Crowd Counting",
+  "compilerVersion": "2.6.5",
+  "usingComponents": {
+    "components": "/pages/component/home",
+    "settings": "/pages/settings/settings",
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}
